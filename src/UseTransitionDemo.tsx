@@ -1,5 +1,4 @@
 import { useTransition } from 'react'
-import './App.css'
 
 interface PostResponse {
   id: number
